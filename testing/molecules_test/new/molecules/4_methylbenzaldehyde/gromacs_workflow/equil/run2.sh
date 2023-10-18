@@ -1,0 +1,1 @@
+gmx mdrun -deffnm equil
